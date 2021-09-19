@@ -1,8 +1,9 @@
 ## Hi there, I am Gert 👋
 
-- 
+I am a cloud consultant from Denmark.
+
 - ☸ Kubernetes is my passion
-- 
+
 
 ## Get in touch
 📫 How to reach me: [Twitter at @gertkjerslev](https://twitter.com/gertkjerslev) or find me on [LinkedIn](https://linkedin.com/in/gertkjerslev).
