@@ -3,7 +3,6 @@
 
 Skills: Azure / IaC / Kubernetes / Powershell / JS / Bicep / ARM
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: Find me on [LinkedIn](https://linkedin.com/in/gertkjerslev).
 
 
